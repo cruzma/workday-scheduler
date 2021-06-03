@@ -5,7 +5,7 @@ An app that tracks your workday schedule.
 ![alt text](./assets/img/workday.PNG)
 
 
-## User Story
+## Story
 
 ```
 AS AN employee with a busy schedule
@@ -13,7 +13,7 @@ I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
 ```
 
-##Criteria
+## Criteria
 
 ```
 GIVEN I am using a daily planner to create a schedule
@@ -31,7 +31,7 @@ WHEN I refresh the page
 THEN the saved events persist
 ```
 
-##Thoughts
+## Thoughts
 
 struggeld a lot on this project as im not as comfortable with jquery.
 Will conitnue to improve on reading all the docs for jquery and and bootstrap
